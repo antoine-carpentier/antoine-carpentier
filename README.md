@@ -6,3 +6,5 @@ I've created [Custom Tools for Revit](https://github.com/antoine-carpentier/AC-R
 I am a developer experienced in C#, Visual Basic, Python, Javascript and SQL but always open to learning more!
 
 You can also find various JS scripts I have written over at [GreasyFork](https://greasyfork.org/en/users/754006-antoine-carpentier).
+
+When I'm not writing code, you can find me playing board games with friends, renovating my place or entertaining my cats!
